@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">MyOwnMap</string>
     <string name="title_activity_maps">MapsActivity</string>
-    <string name="my_map_api_key">AIzaSyBa6MTMJz9t1nsiaBcKy-NhoZgGoVrRSUY</string>
+    <string name="my_map_api_key">YOUR_GOOGLE_MAP_API_HERE</string>
 </resources>
